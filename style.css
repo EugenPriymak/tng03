@@ -647,3 +647,11 @@ hr {
     background-color: #f38181;
     color: #fff;
 }
+
+/* logos */
+
+.logos {
+    display: flex;
+    justify-content: space-between;
+    
+}
